@@ -4,11 +4,15 @@
 
 This project aims to develop a system that identifies and classifies chess pieces from a top-down view of the chessboard. The approach simplifies visual complexity, making it well-suited for image processing techniques.
 
+<img width="458" alt="image" src="https://github.com/tanmayr71/chessAutomation/assets/55703966/05435eb7-5727-4208-8263-de18f047e809">
+
 ## Demo
 
 Watch the demo video on [YouTube](https://youtu.be/cFyKQfR4T-Q).
 
-<img width="1470" alt="image" src="https://github.com/tanmayr71/WealthWave/assets/55703966/e10e5060-428c-4ebd-9ca6-4cb814e17679">
+<img width="1072" alt="image" src="https://github.com/tanmayr71/chessAutomation/assets/55703966/efb3fdf7-9416-48da-b71b-9657da6440d1">
+
+
 
 ## Features
 
